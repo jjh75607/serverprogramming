@@ -1,0 +1,1 @@
+select name, tel, gender, age from member where age>=50 and gender='M';

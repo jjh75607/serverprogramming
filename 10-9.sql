@@ -1,0 +1,1 @@
+select * from member where address like "%광주%" and name like "김%";

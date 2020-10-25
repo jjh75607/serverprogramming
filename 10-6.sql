@@ -1,0 +1,1 @@
+select name, tel from member where name like '박%';

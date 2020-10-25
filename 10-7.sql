@@ -1,0 +1,1 @@
+select num, name, address, gender from member where address like '서울%';

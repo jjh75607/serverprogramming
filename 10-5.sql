@@ -1,0 +1,1 @@
+select name, tel, address, post_num, age, gender from member where name='안철영';

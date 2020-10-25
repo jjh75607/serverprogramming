@@ -1,0 +1,1 @@
+select name, tel, age, gender from member where ((age >= 30 and age <= 39) or (age >= 50 and age <= 59)) and gender='M';

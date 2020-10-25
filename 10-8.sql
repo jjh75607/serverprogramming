@@ -1,0 +1,1 @@
+select * from member where address like '%은평구%';

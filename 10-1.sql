@@ -1,0 +1,1 @@
+select id, name, address, gender from member where gender='W';

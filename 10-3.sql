@@ -1,0 +1,1 @@
+select name, gender, address, age from member where age >= 20 and age <= 29;

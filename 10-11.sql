@@ -1,0 +1,1 @@
+select name, age, address, tel from member where address like "%부산%" order by age desc;
