@@ -2,7 +2,7 @@
     $id   = $_POST["id"];
     $pass = $_POST["pass"];
 
-   $con = mysqli_connect("localhost", "root", "123", "sample");
+   $con = mysqli_connect("localhost", "root", "tnswo9922", "sample");
    $sql = "select * from members where id='$id'";
    $result = mysqli_query($con, $sql);
 
